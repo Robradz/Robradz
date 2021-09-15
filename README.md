@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Robbie!
-- 👀 I’m interested in theology, sports, movies, school, and reading
+- 👀 I’m interested in theology, sports, movies, school, reading, and of course: coding!
 - 🌱 I’m currently learning about databases, web applications, and working on a team to create a game for my senior capstone!
 - 📫 You can reach me at robbieradzville@gmail.com
 
